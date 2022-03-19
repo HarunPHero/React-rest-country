@@ -1,0 +1,11 @@
+.countries {
+  background-color: #92a8d1;
+  border: 2px solid rgb(0, 204, 255);
+  border-radius: 10px;
+  margin: 10px;
+  font-weight: 700;
+}
+.countries-container {
+  grid-template-columns: repeat(2, 1fr);
+  display: grid;
+}
